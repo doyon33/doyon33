@@ -1,10 +1,10 @@
-<b>About Me</b><br>
-I am studying programming to be a game developer. 🎮 <br>
-This semester, I started to study Dart for team project to develop a website and an application. <br>
-Plus I'm also making a game with python. <br>
-And I hope I can upgrade my Squirrel game this year ...
+<b>About Me ✨</b><br>
+I am studying programming to be a game developer. 🎮 <br><br>
+But this semester, I also started to study Dart for team project to develop a website and an application. <br>
+Of course, I'm making a new game with python too. <br><br>
+And I'm planning to update my Squirrel game until March, 2023 ...
 
-<b>Learning... 💻</b><br><br>
+<b>Learning 💻</b><br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
