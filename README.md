@@ -1,6 +1,6 @@
 <b>About Me ✨</b><br>
 I am studying programming to be a game developer. 🎮 <br><br>
-But this semester, I also started to study Dart for team project to develop a website and an application. <br>
+But this semester, I also started to study Flutter & Dart for team project to develop a website and an application. <br>
 Of course, I'm making a new game with python too. <br><br>
 And I'm planning to update my Squirrel game until March, 2023 ...
 
