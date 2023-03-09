@@ -11,4 +11,4 @@ And I'm planning to update my Squirrel game until March, 2023 ...
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyon33&layout=compact&count_private=true&hide=javascript)](https://github.com/doyon33/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyon33&layout=compact&count_private=true&hide=javascript,html)](https://github.com/doyon33/github-readme-stats)
