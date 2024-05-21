@@ -1,8 +1,8 @@
 <b>About Me ✨</b><br>
-I am studying programming to be a game developer. 🎮 <br><br>
-But this semester, I also started to study Flutter & Dart for team project to develop a website and an application. <br>
-Of course, I'm making a new game with python too. <br><br>
-And I'm planning to update my Squirrel game until March, 2023 ...
+I started to study programming to be a game developer. 🎮 <br>
+But I also interested in creating Web page, so I have started to study Dart and Flutter for team project to develop a website and an application. <br><br>
+And I'm making a new game with python too. <br><br>
+My first project titled Squirrel game will be edited continuously, so if you're interested in, then please check it out✅
 
 <b>Learning 💻</b><br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
